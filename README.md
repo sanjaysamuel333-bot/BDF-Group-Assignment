@@ -1,6 +1,6 @@
 # LensLab Studio - Camera Rental API
 
-Group assignment JP-FSD2B-G05 (Backend Development Fundamentals, Modules 1 to 3).
+Group assignment CSE-FSD-2B-G05 (Backend Development Fundamentals, Modules 1 to 3).
 
 LensLab Studio lends cameras by phone call and has had two photographers turn up for the same camera. This API replaces the phone calls with a proper record of photographers, cameras and rentals.
 
